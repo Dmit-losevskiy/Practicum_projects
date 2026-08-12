@@ -14,7 +14,7 @@
 
 ---
 
-## 📺 [Онлайн-кинотеатр: дашборд активности пользователей]https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Online_cinema_user_activity_dashboard)
+## 📺 [Онлайн-кинотеатр: дашборд активности пользователей](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Online_cinema_user_activity_dashboard)
 
 **Стек:** `Tableau Public`
 
