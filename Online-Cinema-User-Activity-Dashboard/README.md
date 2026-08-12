@@ -23,4 +23,4 @@
 
 **Вывод:** Дашборд позволяет маркетологам и продуктовой команде быстро оценить эффективность каналов привлечения, выявить аутсайдеров и лидеров по конверсии, а также понять предпочтения аудитории в контенте.
 
-[**Ссылка:**](https://public.tableau.com/views/-_17605133852430/-?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**Ссылка на дашборд**](https://public.tableau.com/views/-_17605133852430/-?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
