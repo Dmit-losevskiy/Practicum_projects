@@ -2,7 +2,7 @@
 
 ---
 
-## 🚕 [Прогнозирование заказов такси](https://github.com/Dmit-losevskiy/Taxi_orders_prediction)
+## 🚕 [Прогнозирование заказов такси](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Taxi_orders_prediction%20)
 
 **Стек:** `Python` · `Pandas` · `Scikit-learn` · `LightGBM` · `CatBoost` · `Statsmodels` · `Matplotlib` · `Seaborn`
 
