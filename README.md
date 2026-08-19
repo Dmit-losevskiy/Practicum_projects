@@ -128,7 +128,7 @@
 
 ---
 
-## 🎮 [Анализ мобильной игры](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Mobile_game_analytics)
+## 🎮 [Анализ мобильной игры](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Mobile_game_analysis)
 
 **Стек:** `Python` · `Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `Plotly` · `Seaborn` · `Matplotlib`
 
