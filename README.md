@@ -138,7 +138,7 @@
 
 ---
 
-## 🧩 Анализ поведения игроков в мобильной игре
+## 🧩 [Анализ поведения игроков в мобильной игре](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Player_behavior)
 
 **Стек:** `SQL` · `PostgreSQL`
 
