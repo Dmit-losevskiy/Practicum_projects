@@ -130,7 +130,7 @@
 
 ## 🎮 [Анализ мобильной игры](https://github.com/Dmit-losevskiy/Practicum_projects/tree/main/Mobile_game_analysis)
 
-**Стек:** `Python` · `Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `Plotly` · `Seaborn` · `Matplotlib`
+**Стек:** `Python` · `Pandas` · `SQL` · `PostgreSQL` · `Plotly` · `Seaborn` · `Matplotlib`
 
 **Задача:** Проанализировать динамику выручки мобильной игры, выявить причины её снижения и предложить рекомендации по оптимизации монетизации и маркетинга. Рассчитать дерево метрик (выручка, DAU, ARPPU, конверсия, удержание) в разрезе продуктов, стран, каналов и сегментов плательщиков.
 
